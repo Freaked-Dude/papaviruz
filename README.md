@@ -4,13 +4,22 @@
 # espero y les guste
 # Comandos
 $ pkg update
+
 $ pkg upgrade
+
 $ pkg install bash
+
 $ apt install pv
+
 $ pkg install git
-$ git clone https://github.com/Hacking-pch/papaviruz
+
+$ git clone https://github.com/Freaked-Dude/papaviruz
+
 $ cd papaviruz
+
 $ chmod +x papaviruz.sh
+
 $ bash papaviruz.sh
+
 # eso es todos mis queridos hackers los daluda su amigo
-# HACKING PCH #
+## FREAKED DUDE
